@@ -1,7 +1,7 @@
 ## Personal Income, Expense Tracker
 
 **Project Objective :**
-**1.** Create a 3 months _[personal income,expense tracker](https://github.com/rasidatyekeen/Personal_Income_and_Expense_Tracker/blob/main/Personal%20Income%2C%20Expense%20Tracker.pdf)_
+Create a 3 months _[personal income,expense tracker](https://github.com/rasidatyekeen/Personal_Income_and_Expense_Tracker/blob/main/Personal%20Income%2C%20Expense%20Tracker.pdf)_
 
 **Purpose of tracker:** To analyse my monthly spendings since I relocated to the UK and make informed decisions on how to cut expenses.
 
