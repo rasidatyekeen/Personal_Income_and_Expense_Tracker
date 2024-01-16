@@ -1,4 +1,4 @@
-## Personal_Income_and_Expense_Tracker
+## Personal Income, Expense_Tracker
 
 **Project Objective :**
 **1.** Create a 3 months _[personal income,expense tracker](https://github.com/rasidatyekeen/Personal_Income_and_Expense_Tracker/blob/main/Personal%20Income%2C%20Expense%20Tracker.pdf)_
